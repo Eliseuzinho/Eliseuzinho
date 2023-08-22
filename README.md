@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo a Mundo⚔️
 
-<!--
-**Eliseuzinho/Eliseuzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eliseuzinho
+  
+- Estou studando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço pra aprimorar meus conhecimentos,e compartilhamento dos meus projetos desenvolvidos
+### Você entrar em contato comigo 📫
 
-Here are some ideas to get you started:
+goularteliseu195@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://media.tenor.com/leCO1C8nreUAAAAC/luffy.gif)
